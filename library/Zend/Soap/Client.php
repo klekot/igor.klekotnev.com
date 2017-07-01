@@ -33,7 +33,7 @@ require_once 'Zend/Soap/Client/Local.php';
 /**
  * @see Zend_Soap_Client_Common
  */
-require_once 'Zend/Soap/Client/Common.php';
+require_once 'Zend/Soap/Client/CommonController.php';
 
 /**
  * Zend_Soap_Client
