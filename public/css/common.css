@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Mono');
+
+html {
+    background-color: #1b6d85;
+}
+
+.header-banner {
+    text-align: center;
+    font-family: 'PT Mono', monospace;
+    font-weight: 700; !important
+}
+
+#navbar {
+    font-family: 'PT Mono', monospace;
+    font-size: medium;
+}
+
+.layout-wrapper {
+    padding-top: 50px;
+}

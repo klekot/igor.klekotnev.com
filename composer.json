@@ -1,0 +1,7 @@
+{
+    "require": {
+        "deployer/deployer": "^4.3",
+        "zfbase/zend1-bootstrap3": "^1.0",
+        "twbs/bootstrap": "^3.3"
+    }
+}
